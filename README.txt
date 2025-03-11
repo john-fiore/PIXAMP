@@ -8,6 +8,12 @@ PIXAMP is a command line interface (CLI) based calculator that helps
 you calculate a resizing of a resolution. It is developed in Python
 by John Fiore, a 16yo high school student.
 
+As of 03/11/2025, there is NO stable release, and the only way to use
+or run this is to download the source code and run pixamp.py on your
+computer.
+
+NOTE: You NEED Python installed.
+
 2. Basic Details
 
 Name             : PIXAMP
