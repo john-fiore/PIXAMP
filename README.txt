@@ -19,7 +19,7 @@ NOTE: You NEED Python installed.
 Name             : PIXAMP
 Author           : John Fiore
 Language         : 100% Python
-Curren Version   : 1.0
+Curren Versiont  : 1.0
 
 3. Message from Creator
 
